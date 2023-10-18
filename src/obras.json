@@ -1,0 +1,396 @@
+{
+    "Bote": {
+        "titulo": "Bote",
+        "ficha": "Acuarela sobre papel, 10 x 10 cm.",
+        "ruta": "obras/acuarelas/bote.jpg"
+    },
+    "Lago": {
+        "titulo": "Lago",
+        "ficha": "Acuarela sobre papel, 10 x 10 cm.",
+        "ruta": "obras/acuarelas/lago.jpg"
+    },
+    "Acuarelas": {
+        "animales-y-aves": [
+            {
+                "titulo": "Águila Morena de Filipinas",
+                "ficha": "Acuarela sobre papel, 20 x 12 cm.",
+                "ruta": "/obras/acuarelas/Animales y aves/Aguila Morena de Filipinas, acuarela sobre papel, 20 x 12 cm..jpg"
+            },
+            {
+                "titulo": "Buho",
+                "ficha": "Acuarela sobre papel, 18 x 13 cm.",
+                "ruta": "/obras/acuarelas/Animales y aves/Buho, acuarela sobre papel, 18 x 13 cm..JPG"
+            },
+            {
+                "titulo": "Buitres",
+                "ficha": "Acuarela sobre papel, 14 x 16 cm.",
+                "ruta": "/obras/acuarelas/Animales y aves/Buitres, acuarela sobre papel, 14 x 16 cm..jpg"
+            },
+            {
+                "titulo": "Colibrí",
+                "ficha": "Acuarela sobre papel, 18 x 13 cm.",
+                "ruta": "/obras/acuarelas/Animales y aves/Colibri, acuarela sobre papel, 18 x 13 cm..jpg"
+            },
+            {
+                "titulo": "En la Ventana 4",
+                "ficha": "Acuarela sobre papel, 35 x 25 cm.",
+                "ruta": "/obras/acuarelas/Animales y aves/En la Ventana lV, acuarela sobre papel, 35 x 25 cm..jpg"
+            },
+            {
+                "titulo": "Esperando a Papá",
+                "ficha": "Acuarela sobre papel, 27 x 17 cm.",
+                "ruta": "/obras/acuarelas/Animales y aves/Esperando a Papa, acuarela sobre papel, 27 x 17 cm..jpg"
+            },
+            {
+                "titulo": "Koala",
+                "ficha": "Acuarela sobre papel, 18 x 13 cm.",
+                "ruta": "/obras/acuarelas/Animales y aves/Koala, acuarela sobre papel, 18 x 13 cm..jpg"
+            },
+            {
+                "titulo": "Lemur",
+                "ficha": "Acuarela sobre papel, 38 x 28 cm.",
+                "ruta": "/obras/acuarelas/Animales y aves/Lemur, acuarela sobre papel, 38 x 28 cm..jpg"
+            },
+            {
+                "titulo": "Orangután",
+                "ficha": "Acuarela sobre papel, 13.7 x 21.5 cm.",
+                "ruta": "/obras/acuarelas/Animales y aves/Orangutan, acuarela sobre papel, 13.7 x 21.5 cm..JPG"
+            },
+            {
+                "titulo": "Pancho",
+                "ficha": "Acuarela sobre papel, 26 x 36 cm.",
+                "ruta": "/obras/acuarelas/Animales y aves/Pancho, acuarela sobre papel, 26 x 36 cm..jpg"
+            }
+        ],
+        "figura-humana": [
+            {
+                "titulo": "Cocinería",
+                "ficha": "Acuarela sobre papel, 17 x 25 cm.",
+                "ruta": "/obras/acuarelas/Figura humana/Cocineria, acuarela sobre papel, 17 x 25 cm..jpg"
+            },
+            {
+                "titulo": "En la Ventana 5",
+                "ficha": "Acuarela sobre papel, 29 x 20 cm.",
+                "ruta": "/obras/acuarelas/Figura humana/En la Ventana 5, acuarela sobre papel, 29 x 20 cm..jpg"
+            },
+            {
+                "titulo": "En la Ventana",
+                "ficha": "Acuarela sobre papel, 54 x 36 cm.",
+                "ruta": "/obras/acuarelas/Figura humana/En la Ventana, acuarela sobre papel, 54 x 36 cm..jpg"
+            },
+            {
+                "titulo": "Fin del (amor de) Verano",
+                "ficha": "Acuarela sobre papel, 35 x 50 cm.",
+                "ruta": "/obras/acuarelas/Figura humana/Fin del (amor de) Verano. acuarela sobre papel, 35 x 50 cm..JPG"
+            },
+            {
+                "titulo": "Juegos de Luz",
+                "ficha": "Acuarela sobre papel, 29 x 20 cm.",
+                "ruta": "/obras/acuarelas/Figura humana/Juegos de Luz, acuarela sobre papel, 29 x 20 cm..jpg"
+            },
+            {
+                "titulo": "La Exaltación de la Luz",
+                "ficha": "Acuarela sobre papel, 28 x 19 cm.",
+                "ruta": "/obras/acuarelas/Figura humana/La Exaltacion de la Luz, acuarela sobre papel, 28 x 19 cm..jpg"
+            },
+            {
+                "titulo": "Las Vendedoras de Pescado",
+                "ficha": "Acuarela sobre papel, 26 x 25 cm.",
+                "ruta": "/obras/acuarelas/Figura humana/Las Vendedoras de Pescado, acuarela sobre papel, 26 x 25 cm..jpg"
+            },
+            {
+                "titulo": "Lluvia de Otoño",
+                "ficha": "Acuarela sobre papel, 27 x 17 cm.",
+                "ruta": "/obras/acuarelas/Figura humana/Luvia de Otono, acuarela sobre papel, 27 x 17 cm..jpg"
+            },
+            {
+                "titulo": "Reparando Redes",
+                "ficha": "Acuarela sobre papel, 27 x 17 cm.",
+                "ruta": "/obras/acuarelas/Figura humana/Reparando Redes, acuarela sobre papel, 27 x 17 cm..jpg"
+            }
+        ], "marinas": [
+            {
+                "titulo": "Astillero en Chiloé",
+                "ficha": "Acuarela sobre papel, 38 x 56 cm.",
+                "ruta": "/obras/acuarelas/Marinas/Astillero en Chiloe, acuarela sobre papel, 38 x 56 cm..jpg"
+            },
+            {
+                "titulo": "Chiloé Profundo",
+                "ficha": "Acuarela sobre papel, 38 x 56 cm.",
+                "ruta": "/obras/acuarelas/Marinas/Chiloe Profundo, cuarela sobre papel, 38 x 56 cm..jpg"
+            },
+            {
+                "titulo": "Espera en Calma",
+                "ficha": "Acuarela sobre papel, 29 x 20 cm.",
+                "ruta": "/obras/acuarelas/Marinas/Espera en Calma, acuarela sobre papel, 29 x 20 cm..jpg"
+            },
+            {
+                "titulo": "Lanchas en la Bruma",
+                "ficha": "Acuarela in situ sobre papel, 54 x 74 cm.",
+                "ruta": "/obras/acuarelas/Marinas/Lanchas en la Bruma, acuarela in situ sobre  papel, 54 x 74 cm..jpg"
+            },
+            {
+                "titulo": "Marea Baja",
+                "ficha": "Acuarela sobre papel, 23 x 33 cm.",
+                "ruta": "/obras/acuarelas/Marinas/Marea Baja, acuarela sobre papel, 23 x 33 cm..jpg"
+            },
+            {
+                "titulo": "Marea Baja, vista 2",
+                "ficha": "Acuarela sobre papel, 27 x 26 cm.",
+                "ruta": "/obras/acuarelas/Marinas/Marea Baja, vista 2, acuarela sobre papel, 27 x 26 cm..jpg"
+            },
+            {
+                "titulo": "Playa de Mirasol, vista1",
+                "ficha": "Acuarela in situ sobre papel, 26 x 36 cm.",
+                "ruta": "/obras/acuarelas/Marinas/Playa de Mirasol, vista1, acuarela in situ sobre papel, 26 x 36 cm..jpg"
+            },
+            {
+                "titulo": "Pueblo Pescador de Makoko, Nigeria",
+                "ficha": "Acuarela sobre papel, 34 x 24 cm.",
+                "ruta": "/obras/acuarelas/Marinas/Pueblo Pescador de Makoko, Nigeria, acuarela sobre papel, 34 x 24 cm..jpg"
+            },
+            {
+                "titulo": "Puerto de San Antonio, Chile",
+                "ficha": "Acuarela sobre papel 43 x 28 cm.",
+                "ruta": "/obras/acuarelas/Marinas/Puerto de San Antonio, Chile, acuarela sobre papel 43 x 28 cm..jpg"
+            },
+            {
+                "titulo": "Quicavi, Isla Grande de Chiloe, Chile",
+                "ficha": "Acuarela sobre papel, 13 x 21 cm.",
+                "ruta": "/obras/acuarelas/Marinas/Quicavi, Isla Grande de Chiloe, Chile, acuarela sobre papel, 13 x 21 cm..jpg"
+            },
+            {
+                "titulo": "Solitario",
+                "ficha": "Acuarela sobre papel, 24 x 20 cm.",
+                "ruta": "/obras/acuarelas/Marinas/Solitario, acuarela sobre papel, 24 x 20 cm..jpg"
+            },
+            {
+                "titulo": "Tiempo de Espera 2",
+                "ficha": "Acuarela sobre papel, 20 x 27 cm.",
+                "ruta": "/obras/acuarelas/Marinas/Tiempo de Espera 2, acuarela sobre papel, 20 x 27 cm..jpg"
+            },
+            {
+                "titulo": "Tiempo de Espera 3",
+                "ficha": "Acuarela sobre papel, 17 x 23 cm.",
+                "ruta": "/obras/acuarelas/Marinas/Tiempo de Espera 3, acuarela sobre papel, 17 x 23 cm..jpg"
+            },
+            {
+                "titulo": "Vista del lago Llanquihue, Frutillar",
+                "ficha": "Acuarela sobre papel, 18 x 27 cm.",
+                "ruta": "/obras/acuarelas/Marinas/Vista del lago Llanquihue, Frutillar, acuarela sobre papel, 18 x 27 cm..jpg"
+            }
+
+        ],
+        "retratos": [
+            {
+                "titulo": "Elvira Pizarro Peña, mi abuela",
+                "ficha": "Acuarela sobre papel, 34 x 25 cm.",
+                "ruta": "/obras/acuarelas/Retratos/Elvira Pizarro Pena, mi abuela, acuarela sobre papel, 34 x 25 cm..jpg"
+            },
+            {
+                "titulo": "Juampi",
+                "ficha": "Acuarela sobre papel, 74 x 54 cm.",
+                "ruta": "/obras/acuarelas/Retratos/Juampi, acuarela sobre papel, 74 x 54 cm..JPG"
+            },
+            {
+                "titulo": "Personajes 1",
+                "ficha": "Acuarela sobre papel, 25 x 17 cm.",
+                "ruta": "/obras/acuarelas/Retratos/Personajes 1, acuarela sobre papel, 25 x 17 cm..jpg"
+            },
+            {
+                "titulo": "Personajes 2",
+                "ficha": "Acuarela sobre papel, 25 x 17 cm.",
+                "ruta": "/obras/acuarelas/Retratos/Personajes 2, acuarela sobre papel, 25 x 17 cm..jpg"
+            },
+            {
+                "titulo": "Personajes 4",
+                "ficha": "Acuarela sobre papel, 25 x 17 cm.",
+                "ruta": "/obras/acuarelas/Retratos/Personajes 4, acuarela sobre papel, 25 x 17 cm..jpg"
+            },
+            {
+                "titulo": "Personajes 5",
+                "ficha": "Acuarela sobre papel, 25 x 17 cm.",
+                "ruta": "/obras/acuarelas/Retratos/Personajes 5, acuarela sobre papel, 25 x 17 cm..jpg"
+            },
+            {
+                "titulo": "Personajes 6",
+                "ficha": "Acuarela sobre papel, 25 x 17 cm.",
+                "ruta": "/obras/acuarelas/Retratos/Personajes 6, acuarela sobre papel, 25 x 17 cm..jpg"
+            },
+            {
+                "titulo": "Personajes 8",
+                "ficha": "Acuarela sobre papel, 26 x 17 cm.",
+                "ruta": "/obras/acuarelas/Retratos/Personajes 8, acuarela sobre papel, 26 x 17 cm..jpg"
+            },
+            {
+                "titulo": "Personajes 9",
+                "ficha": "Acuarela sobre papel, 29 x 20 cm.",
+                "ruta": "/obras/acuarelas/Retratos/Personajes 9, acuarela sobre papel, 29 x 20 cm..jpg"
+            },
+            {
+                "titulo": "Personajes 12",
+                "ficha": "Acuarela sobre papel, 29 x 20 cm.",
+                "ruta": "/obras/acuarelas/Retratos/Personajes 12, acuarela sobre papel, 29 x 20 cm..jpg"
+            },
+            {
+                "titulo": "Personajes 13",
+                "ficha": "Acuarela sobre papel, 27 x 18 cm.",
+                "ruta": "/obras/acuarelas/Retratos/Personajes 13, acuarela sobre papel, 27 x 18 cm..jpg"
+            },
+            {
+                "titulo": "Personajes 16",
+                "ficha": "Acuarela sobre papel, 28 x 19 cm.",
+                "ruta": "/obras/acuarelas/Retratos/Personajes 16, acuarela sobre papel, 28 x 19 cm..jpg"
+            },
+            {
+                "titulo": "Veronica",
+                "ficha": "Acuarela sobre papel, 34 x 25 cm.",
+                "ruta": "/obras/acuarelas/Retratos/Veronica, acuarela sobre papel, 34 x 25 cm..jpg"
+            }
+        ],
+        "rurales": [
+            {
+                "titulo": "Compañeros",
+                "ficha": "Acuarela sobre papel, 25 x 23 cm.",
+                "ruta": "/obras/acuarelas/Rurales/Companeros, acuarela sobre papel, 25 x 23 cm..jpg"
+            },
+            {
+                "titulo": "Escalera de Piedra",
+                "ficha": "Acuarela sobre papel, 32 x 23 cm.",
+                "ruta": "/obras/acuarelas/Rurales/Escalera de Piedra, acuarela sobre papel, 32 x 23 cm..jpg"
+            },
+            {
+                "titulo": "Juampi en Parque Nacional Alerce Andino",
+                "ficha": "Acuarela sobre papel, 18 x 25 cm.",
+                "ruta": "/obras/acuarelas/Rurales/Juampi en Parque Nacional Alerce Andino, acuarela sobre papel, 18 x 25 cm..jpg"
+            },
+            {
+                "titulo": "Luces y Sombras de Otoño",
+                "ficha": "Acuarela sobre papel, 17.5 x 26 cm.",
+                "ruta": "/obras/acuarelas/Rurales/Luces y Sombras de Otono, acuarela sobre papel, 17.5 x 26 cm..jpg"
+            },
+            {
+                "titulo": "Paisaje con Nieve",
+                "ficha": "Acuarela sobre papel, 35 x 25 cm.",
+                "ruta": "/obras/acuarelas/Rurales/Paisaje con Nieve, acuarela sobre papel, 35 x 25 cm..jpg"
+            },
+            {
+                "titulo": "Paisaje Invernal 1",
+                "ficha": "Acuarela sobre papel, 29 x 21 cm.",
+                "ruta": "/obras/acuarelas/Rurales/Paisaje Invernal 1, acuarela sobre papel, 29 x 21 cm..jpg"
+            },
+            {
+                "titulo": "Paisaje Invernal 2",
+                "ficha": "Acuarela sobre papel, 29 x 21 cm.",
+                "ruta": "/obras/acuarelas/Rurales/Paisaje Invernal 2, acuarela sobre papel, 29 x 21 cm..jpg"
+            },
+            {
+                "titulo": "Paisaje Invernal 3",
+                "ficha": "Acuarela sobre papel, 29 x 21 cm.",
+                "ruta": "/obras/acuarelas/Rurales/Paisaje Invernal 3, acuarela sobre papel, 29 x 21 cm..jpg"
+            },
+            {
+                "titulo": "Paisaje Otoñal 1",
+                "ficha": "Acuarela sobre papel, 29 x 20 cm.",
+                "ruta": "/obras/acuarelas/Rurales/Paisaje Otonal 1, acuarela sobre papel, 29 x 20 cm..jpg"
+            },
+            {
+                "titulo": "Paisaje Otoñal 2",
+                "ficha": "Acuarela sobre papel, 26 x 17 cm.",
+                "ruta": "/obras/acuarelas/Rurales/Paisaje Otonal 2, acuarela sobre papel, 26 x 17 cm..jpg"
+            },
+            {
+                "titulo": "Parque el Boldo, Zapallar",
+                "ficha": "Acuarela sobre papel, 25 x 34 cm.",
+                "ruta": "/obras/acuarelas/Rurales/Parque el Boldo, Zapallar, acuarela sobre papel, 25 x 34 cm..jpg"
+            },
+            {
+                "titulo": "Parque Jardín Botánico, Viña del Mar, vista 1",
+                "ficha": "Acuarela sobre papel, 17.5 x12.5 cm.",
+                "ruta": "/obras/acuarelas/Rurales/Parque Jardin Botanico, Vina del Mar, vista 1, acuarela sobre papel, 17.5 x12.5 cm..JPG"
+            },
+            {
+                "titulo": "Valle de Elqui",
+                "ficha": "Acuarela sobre papel, 14 x 19 cm.",
+                "ruta": "/obras/acuarelas/Rurales/Valle de Elqui, acuarela sobre papel, 14 x 19 cm..jpg"
+            },
+            {
+                "titulo": "Volviendo a la Pesebrera",
+                "ficha": "Acuarela sobre papel, 29 x 20 cm.",
+                "ruta": "/obras/acuarelas/Rurales/Volviendo a la Pesebrera, acuarela sobre papel, 29 x 20 cm..jpg"
+            }
+        ],
+        "urbanas": [
+            {
+                "titulo": "Barrio Concha y Toro, plaza Libertad de Prensa, Santiago de Chile",
+                "ficha": "Acuarela sobre papel, 31 x 23 cm.",
+                "ruta": "/obras/acuarelas/Urbanas/Barrio Concha y Toro, plaza Libertad de Prensa, Santiago de Chile, acuarela sobre papel, 31 x 23 cm..jpg"
+            },
+            {
+                "titulo": "Callejón de Luz",
+                "ficha": "Acuarela sobre papel, 32 x 23 cm.",
+                "ruta": "/obras/acuarelas/Urbanas/Callejon de Luz, acuarela sobre papel, 32 x 23 cm..jpg"
+            },
+            {
+                "titulo": "Calles de Roma",
+                "ficha": "Acuarela sobre papel, 28 x 21 cm.",
+                "ruta": "/obras/acuarelas/Urbanas/Calles de Roma, acuarela sobre papel, 28 x 21 cm..png"
+            },
+            {
+                "titulo": "Canales de Venecia, vista 6",
+                "ficha": "Acuarela sobre papel, 26 x 17 cm.",
+                "ruta": "/obras/acuarelas/Urbanas/Canales de Venecia, vista 6, acuarela sobre papel, 26 x 17 cm..jpg"
+            },
+            {
+                "titulo": "Canales de Venecia, vista 8",
+                "ficha": "Acuarela sobre papel, 24 x 18 cm.",
+                "ruta": "/obras/acuarelas/Urbanas/Canales de Venecia, vista 8, acuarela sobre papel, 24 x 18 cm..jpg"
+            },
+            {
+                "titulo": "Feria de Calle Romero, Santiago de Chile",
+                "ficha": "Acuarela sobre papel, 53 x 35 cm.",
+                "ruta": "/obras/acuarelas/Urbanas/Feria de Calle Romero, Santiago de Chile, acuarela sobre papel, 53 x 35 cm..JPG"
+            },
+            {
+                "titulo": "Hay Ropa Tendida",
+                "ficha": "Acuarela sobre papel, 26 x 18 cm.",
+                "ruta": "/obras/acuarelas/Urbanas/Hay Ropa Tendida, acuarela sobre papel, 26 x 18 cm..jpg"
+            },
+            {
+                "titulo": "La Bicicleta",
+                "ficha": "Acuarela sobre papel, 26 x 17 cm.",
+                "ruta": "/obras/acuarelas/Urbanas/La Bicicleta, acuarela sobre papel, 26 x 17 cm..jpg"
+            },
+            {
+                "titulo": "Medinas 2",
+                "ficha": "Acuarela sobre papel, 35 x 25 cm.",
+                "ruta": "/obras/acuarelas/Urbanas/Medinas 2, acuarela sobre papel, 35 x 25 cm..jpg"
+            },
+            {
+                "titulo": "Medinas 4",
+                "ficha": "Acuarela sobre papel, 35 x 25 cm.",
+                "ruta": "/obras/acuarelas/Urbanas/Medinas 4, acuarela sobre papel, 35 x 25 cm..jpg"
+            },
+            {
+                "titulo": "New York",
+                "ficha": "Acuarela sobre papel, 29 x 20 cm.",
+                "ruta": "/obras/acuarelas/Urbanas/New York, acuarela sobre papel, 29 x 20 cm..jpg"
+            },
+            {
+                "titulo": "Temporal en el Puerto",
+                "ficha": "Acuarela sobre papel, 27 x 26 cm.",
+                "ruta": "/obras/acuarelas/Urbanas/Temporal en el Puerto, acuarela sobre papel, 27 x 26 cm..jpg"
+            },
+            {
+                "titulo": "Volterra, Toscana, Italia",
+                "ficha": "Acuarela sobre papel, 28 x 19 cm.",
+                "ruta": "/obras/acuarelas/Urbanas/Volterra, Toscana, Italia, acuarela sobre papel, 28 x 19 cm..jpg"
+            },
+            {
+                "titulo": "Yo te Llevo",
+                "ficha": "Acuarela sobre papel, 29 x 20 cm.",
+                "ruta": "/obras/acuarelas/Urbanas/Yo te Llevo, acuarela sobre papel, 29 x 20 cm..jpg"
+            }
+        ]
+    }
+}
