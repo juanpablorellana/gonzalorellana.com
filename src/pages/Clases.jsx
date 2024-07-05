@@ -8,14 +8,14 @@ const Clases = () => {
       <StyledClases>
         <div className="dibujo">
           <img src="obras/dibujo/017.JPG" alt="" />
-          <div>
+          <div className="dataDibujo">
             <h3>Dibujo figura humana con modelo</h3>
             <ul>
               <li><b>Modalidad:</b> Presencial</li>
               <li><b>Horario:</b> Martes 19:30 - 21:30 horas</li>
               <li><b>Valor:</b> 80.000 CLP (Mensual)</li>
             </ul>
-            <Link to='/contacto'><button><b>Contacto</b></button></Link>
+            <Link to='/contacto'><button className="boton1"><b>Contacto</b></button></Link>
           </div>
         </div>
         <div className="acuarela">
@@ -24,12 +24,15 @@ const Clases = () => {
             <h3>Acuarela</h3>
             <ul>
               <li><b>Modalidad:</b> Presencial</li>
-              <li><b>Horario:</b> Jueves 9:00 - 11:00 horas</li>
+              <li><b>Horario:</b></li>
+              <li>- Lunes 16:00 - 18:00 horas</li>
+              <li>- Viernes 19:00 - 21:00 horas</li>
               <li><b>Valor:</b> 70.000 CLP (Mensual)</li>
             </ul>
             <Link to='/contacto'><button><b>Contacto</b></button></Link>
           </div>
         </div>
+        {/*
         <div className="acuarela-zoom">
           <img src="/obras/acuarelas/Marinas/Lanchas en la Bruma, acuarela in situ sobre  papel, 54 x 74 cm..jpg" alt="" />
           <div>
@@ -42,6 +45,7 @@ const Clases = () => {
             <Link to='/contacto'><button><b>Contacto</b></button></Link>
           </div>
         </div>
+        */}
       </StyledClases>
     </>
   )
@@ -52,7 +56,7 @@ export default Clases;
 const StyledClases = styled.div`
   display: flex;
   flex-flow: row wrap;
-  justify-content: space-evenly;
+  justify-content: center;
   padding-bottom: 1rem;
   text-align: left;
   @media (min-width: 1020px) { align-items: stretch; }
