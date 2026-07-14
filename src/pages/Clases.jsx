@@ -25,8 +25,8 @@ const Clases = () => {
             <ul>
               <li><b>Modalidad:</b> Presencial</li>
               <li><b>Horario:</b></li>
-              <li>- Lunes 16:00 - 18:00 horas</li>
-              <li>- Viernes 19:00 - 21:00 horas</li>
+              <li>- Miércoles 19:00 - 21:00 horas</li>
+              <li>- Jueves 10:00 - 12:00 horas</li>
               <li><b>Valor:</b> 70.000 CLP (Mensual)</li>
             </ul>
             <Link to='/contacto'><button><b>Contacto</b></button></Link>

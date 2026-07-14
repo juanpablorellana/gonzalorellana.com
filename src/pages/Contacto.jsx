@@ -15,7 +15,7 @@ const Contacto = () => {
             <a href='tel:+56997478453'>
               <div className="fono">
                 <img src="phone.svg" alt='' />
-                <h4>+56997478453</h4>
+                <h4>+56 9 9747 8453</h4>
               </div>
             </a>
             <a href='https://www.instagram.com/gonzalorellana_pinturas/' target='_blank' rel="noreferrer">
