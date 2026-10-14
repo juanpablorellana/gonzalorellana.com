@@ -24,7 +24,9 @@ const Clases = () => {
             <h3>Acuarela</h3>
             <ul>
               <li><b>Modalidad:</b> Presencial</li>
-              <li><b>Horario:</b> Miércoles 19:30 - 21:30 horas</li>
+              <li><b>Horarios:</b></li>
+              <li>- Miércoles 19:30 - 21:30 horas</li>
+              <li>- Jueves 10:00 - 12:00 horas</li>
               <li><b>Valor:</b> 70.000 CLP (Mensual)</li>
             </ul>
             <Link to='/contacto'><button><b>Contacto</b></button></Link>
